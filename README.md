@@ -1,2 +1,2 @@
-# dsearch
-Decentralized Search Engine Built on IPFS
+### Dsearch ###
+### Decentralized Search Engine Built on IPFS ###
