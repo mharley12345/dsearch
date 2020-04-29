@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1d7b6ca9435baec27c6ec7ebacf519f0d5cd208d4df773d64abd59e0d8b02edf"
+            "sha256": "6e83186ef3fdc999dd84fbbf36651580e0361daa1d4e57c63ee7eb77d72037f8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -69,6 +69,9 @@
                 "sha256:dd2fa9d6b1a51a83f0d7dd76293d734046aa176e384bf6e33b7e44880eb37c5d"
             ],
             "version": "==15.1.0"
+        },
+        "crawlerflow": {
+            "git": "https://github.com/crawlerflow/crawlerflow"
         },
         "cryptography": {
             "hashes": [
