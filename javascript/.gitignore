@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-Pipfile.lock
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -42,7 +42,7 @@ Generated\ Files/
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
-
+Pipfile.lock
 # NUnit
 *.VisualState.xml
 TestResult.xml
